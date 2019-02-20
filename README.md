@@ -4,6 +4,7 @@
 
 
 npm init
+
 "C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe"
 
 # run Robomongo and connect to the local host
