@@ -10,4 +10,5 @@ npm init
 # set the environmental variable: 
 
 $env:vidly_jwtPrivateKey=”password”
+
 node index.js
